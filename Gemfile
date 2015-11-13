@@ -5,6 +5,7 @@ gem 'json'
 gem 'sinatra-websocket'
 gem 'mongo'
 gem 'bson_ext'
+gem 'puma' 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.4'
